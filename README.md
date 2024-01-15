@@ -1,2 +1,2 @@
-# news_app
+# News App
 Proyecto de Administrador de Noticias
